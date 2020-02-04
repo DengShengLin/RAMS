@@ -1,2 +1,2 @@
-# SAMS
-Resource Authority Management System（Spring+SpringMVC+Mybatis+Spring Security）
+# SAMS（Spring+SpringMVC+Mybatis+Spring Security）
+Resource Authority Management System
