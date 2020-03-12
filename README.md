@@ -1,2 +1,2 @@
-# SAMS（Spring+SpringMVC+Mybatis+Spring Security）
-Resource Authority Management System
+# 球馆预定系统：SRS（Stadium reservation system）
+
